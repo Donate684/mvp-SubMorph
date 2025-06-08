@@ -21,7 +21,7 @@ It solves the common problem of subtitles appearing too large or too small by sc
 ## 🚀 Installation
 
 1.  Download the `SubMorph.lua` file from this repository.
-2.  Place it in your `mpv` scripts folder.
+2.  Place it in your `mpv` ```scripts``` folder.
 3.  (Optional but Recommended) To configure the script, create a file named `SubMorph.conf` and place it in the `script-opts` folder.
 
 ## 🛠️ Configuration
