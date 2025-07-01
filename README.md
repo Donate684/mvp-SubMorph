@@ -1,5 +1,5 @@
 # SubMorph for mpv
-SubMorph is part of project **[mpv anime](https://github.com/Donate684/mpv-anime)**. It's a powerful Lua script for mpv that intelligently restyles ASS/SSA subtitles to provide a consistent and predictable viewing experience across all your media.
+SubMorph it's a powerful Lua script for mpv that intelligently restyles ASS/SSA subtitles to provide a consistent and predictable viewing experience across all your media.
 
 It solves the common problem of subtitles appearing too large or too small by scaling them relative to a fixed reference height (e.g., 720p), ensuring your custom style looks perfect regardless of the video's or subtitle's original resolution.
 
